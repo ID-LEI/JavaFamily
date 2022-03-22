@@ -1,19 +1,3 @@
-码猿技术专栏文章汇总
-===
-
-![Spring Boot 2.3](https://img.shields.io/badge/Spring%20Boot-2.4-brightgreen.svg)
-![Mybatis3.5](https://img.shields.io/badge/Mybatis-3.5-blue.svg)
-![不才陈某](https://img.shields.io/badge/不才陈某-important.svg)
-![公众号](https://img.shields.io/badge/码猿技术专栏-blue.svg)
-![](https://img.shields.io/badge/Spring%20Cloud%20Alibaba-2.2.5.RELEASE-yellowgreen)
-![](https://img.shields.io/badge/Spring%20Cloud-Hoxton.SR3-yellowgreen)
-
-不才陈某的公众号的专栏文章。内容涵盖**Java后端技术**、**Spring Boot**、**微服务架构**、**系统安全**、**前端**、系统监控等相关的研究与知识分享。欢迎**star**
-
-以下内容全部出自公众号**码猿技术专栏**，欢迎关注。
-
-![](https://gitee.com/chenjiabing666/BlogImage/raw/master/@Async%E4%B8%BA%E4%BB%80%E4%B9%88%E4%B8%8D%E5%BB%BA%E8%AE%AE%E4%BD%BF%E7%94%A8/16.jpg)
-
 针对后端技术陈某做出了以下分类，每个分类都有完整的入门到进阶的教程，如下：
 
 - **Spring Cloud** ：[点击前往](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzU3MDAzNDg1MA==&action=getalbum&album_id=2042874937312346114#wechat_redirect)
